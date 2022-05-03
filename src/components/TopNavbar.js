@@ -5,7 +5,6 @@ import { Link } from "react-router-dom";
 
 const TopNavbar = ({ header }) => {
   const { category, setCategory } = useContext(CategoriesContext);
-  console.log(category, "category in topnavbar");
 
   return (
     <div className="header">
