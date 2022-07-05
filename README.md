@@ -1,4 +1,4 @@
-# GraphQL-HackYourTemperature
+# E-commerce React
 
 ## Description
 
